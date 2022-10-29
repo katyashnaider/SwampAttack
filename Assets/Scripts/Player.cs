@@ -42,4 +42,9 @@ public class Player : MonoBehaviour
     {
         Money += reward;
     }
+
+    public void AddMoney(int money)
+    {
+        Money += money;
+    }
 }
