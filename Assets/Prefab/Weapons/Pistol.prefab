@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _label: "\u041F\u0438\u0441\u0442\u043E\u043B\u0435\u0442"
-  _price: 0
+  _price: 2
   _icon: {fileID: 21300000, guid: b45ee5d9ad8f0ef47bcbbe71c656aca3, type: 3}
-  _isBuyes: 1
+  _isBuyes: 0
   Bullet: {fileID: 1666838886753370614, guid: 45950b67bfc3e1f48a275ee3beb0e763, type: 3}
